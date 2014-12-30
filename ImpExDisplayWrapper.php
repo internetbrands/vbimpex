@@ -1,10 +1,10 @@
 <?php
 /*======================================================================*\
 || #################################################################### ||
-|| # vBulletin [#]version[#] - Licence Number [#]license[#]
+|| # vBulletin Impex
 || # ---------------------------------------------------------------- # ||
-|| # All PHP code in this file is �2000-[#]year[#] vBulletin Solutions Inc. # ||
-|| # This file may not be redistributed in whole or significant part. # ||
+|| # All PHP code in this file is Copyright 2000-2014 vBulletin Solutions Inc. # ||
+|| # This code is made available under the Modified BSD License -- see license.txt # ||
 || # ---------------- VBULLETIN IS NOT FREE SOFTWARE ---------------- # ||
 || # http://www.vbulletin.com | http://www.vbulletin.com/liceNse.html # ||
 || #################################################################### ||
