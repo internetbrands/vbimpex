@@ -1,0 +1,26 @@
+/**
+* A read me
+*
+* @package 		ImpEx
+* @author		Jerry Hutchings <jerry.hutchings@vbulletin.com>
+* @version		$Revision: 2282 $
+* @date 		$Date: 2010-02-07 21:33:09 -0500 (Sun, 07 Feb 2010) $
+*
+*/
+
+This ImpEx build version is :
+
+1.96
+
+
+For a HOWTO go here:
+
+http://www.vbulletin.com/forum/showthread.php?t=116398
+
+For a Manual go here :
+
+http://www.vbulletin.com/docs/html/impex
+
+/*
+*	End page
+*/

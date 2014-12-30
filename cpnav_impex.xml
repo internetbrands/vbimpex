@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<navgroups>
+
+	<navgroup phrase="import">		
+
+		<navoption>
+			<phrase>import</phrase>
+			<link>../impex/index.php</link>
+		</navoption>
+
+	</navgroup>
+
+</navgroups>

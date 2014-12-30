@@ -1,0 +1,192 @@
+
+// Custom 404 for Internal and External legacy forum link
+
+This scrip is discussed here :
+
+http://www.vbulletin.com/forum/showthread.php?t=178161
+
+
+Overview
+========
+
+To allow 404 page not found or 301 permanently moved, redirects. 
+
+When a forum is imported into vBulletin the URL's to threads, forums, posts and
+users will change. This is because of file names of the filenames of the system
+you have been using before will most likely be different to vBulletin, i.e. if 
+you are importing from phpBB2 (I will use phpBB2 as an example throughout) :
+
+http://www.example.com/phpBB/viewtopic.php?t=123
+
+becomes :
+
+http://www.example.com/vBulletin/showthread.php?t=456
+
+Not only does the file name change, but so does the id in the URL, also you may
+change folder name and possibly domain name (more on that in advanced).
+
+After every import as long as the importids are not removed there is a relation
+between the old and new data so a redirect can be processed.
+
+
+How to use
+==========
+
+If you are reading this you have downloaded ImpEx so that is the first step. In
+the same folder is the 404.php file.
+
+Choose the old forum system you have imported from (Currently phpBB2, if you 
+have other requests contact Jerry from www.vbulletin.com).
+
+Firs thing to do is edit the details at the top of the script to set up the old
+and new domain paths, the examples are in the file itself so the file can parse
+the old URL's in to the new. You will need to configure $standard_404 with the
+full URL to the fail over 404 page, i.e. where this script will redirect valid
+404 errors that aren't the old forum.
+
+Choose between a 404 and a 301 redirect, more details here :
+
+http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
+
+The second part of the configuration is the database, this is the vBulletin 
+database so the script can get the new id from the imported id's and build the
+new URL to redirect to.
+
+If you want to use logging which is highly recommended, so you can see that its
+working correctly, where the links are coming from and to catch the unknown
+URL's to update the script.
+
+You will need to create this table in your vBulletin database :
+
+CREATE TABLE `404_actions` (
+`id` INT UNSIGNED NOT NULL AUTO_INCREMENT ,
+`time` INT UNSIGNED NOT NULL ,
+`incomming` VARCHAR( 250 ) NOT NULL ,
+`outgoing` VARCHAR( 250 ) NOT NULL ,
+`action` TINYINT UNSIGNED NOT NULL DEFAULT '0',
+PRIMARY KEY ( `id` )
+) TYPE = MYISAM ;
+
+
+If you add a table prefix to be consistent with the rest of your vBulletin
+database you will have to add that to the configuration at the top of the
+404.php script.
+
+Next you have configure your web server to pass the 404 errors to the 404.php
+script, it does 1 of two things :
+
+1) If its a URL from the old forum it will lookup the new link and redirect.
+
+2) If its a 404 from outside of the old forum the script will redirect to a
+configured error page, $standard_404 as set at the top of 404.php.
+
+
+Depending on your webs ever you can configure it to redirect to the 404 page or
+you can use a .htaccess file.
+
+ErrorDocument 404 /forum/404.php
+
+This will depend on your system setup and personal preference.
+
+
+Maintenance
+===========
+
+As the script runs and redirects users from external and internal links the
+404_action table will grow with the incoming links and conversions, paying
+attention to the entries in there will give you an understanding of where the
+links are coming from, i.e. internal vr external. As well as the traffic
+volume.
+
+The two main SQL commands that will be useful are :
+
+For general usage :
+
+SELECT
+SUM(action='1') as forum_redirects,
+SUM(action='2') as thread_redirects,
+SUM(action='3') as post_redirects,
+SUM(action='4') as user_redirects,
+SUM(action='10') as origional_data_missing,
+SUM(action='20') as unkown_link,
+SUM(action='0') as script_error
+FROM 404_actions;
+
+
+For finding fixes that are needed, and notifying me :
+(Jerry : http://www.vbulletin.com/forum/member.php?u=24628 )
+
+SELECT * FROM `404_actions` WHERE `action` = 20 OR `action` = 0;
+
+
+Advanced and remote
+===================
+
+For thoses of you running multi import boards, you will have probably thought
+about the removing import id's stage between imports. Yes, as soon as you do
+that, this won't work so as long as you only ever do 1 import to a board it
+will be ok, though some boards have been built by more than 1 import, then
+merge imports (I've seen a seven board import, into one).
+
+Ignoring different servers for the moment, I'll come to that in a moment.
+
+Once an import has been performed (the first) and the importids as still intact
+the 404.php script will be able to process the redirects, once you need to
+perform another import you will need to remove the importids from the
+vBulletin tables to all ImpEx to relink the new incoming data.
+
+To still allow the redirect to still work requires the id and import id's to
+be moved into a separate table, this can be a composite table to allow more
+import references to be looked up, i.e.
+
+3 different imports :
+
+redirect_threads
+
+ id | import_1 | import_2 | import_3
+----+----------+----------+-----------
+  1 |    2     |     0    |     0
+  2 |    4     |     0    |     0
+  3 |    5     |     0    |     0
+  4 |   11     |     0    |     0
+  5 |    0     |     1    |     0
+  6 |    0     |     2    |     0
+  7 |    0     |     3    |     0
+  8 |    0     |     4    |     0
+  9 |    0     |     0    |     2
+ 10 |    0     |     0    |     7
+ 11 |    0     |     0    |    11
+ 12 |    0     |     0    |    17
+ 
+ The initial id, is the vBulletin threadid, the 3 columns are the
+ importthreadids  from the previous imports, as there can only be one threadid
+ in vBulletin the  404 scripts can be configured for a separate lookup opposed
+ to using the vBulletin thread/post/user/etc tables.
+ 
+ This requires seprate 404.php scripts in the old forum folders and to be 
+ configured with the relevant import_X collum look up, i.e. :
+ 
+ SELECT id FROM redirect_threads WHERE import_2=3;
+ 
+ This allows multi import redirect from one database.
+ 
+ If you are physically moving server you will need a copy of the forum/thread/
+ post and user tables, will all but the id and importids, e.g.
+ 
+ forum 
+ 
+ forumid | importforumid
+ --------+--------------
+	1    |       4
+	2    |       6
+	3    |       7
+	4    |       8
+	5    |       15
+	
+Then with the 404.php on the old server, it can redirect to the new server 
+remotely, checking the logs on a remote import for maintenance and log cycling
+unless, there is no interest past functionality, then turn logging off.
+
+That's all folks !!
+Jerry
+jerry.hutchings@vbulletin.com
