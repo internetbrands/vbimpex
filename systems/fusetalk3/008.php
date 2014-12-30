@@ -12,9 +12,6 @@
 * fusetalk_008 Import Pm module
 *
 * @package			ImpEx.fusetalk
-* @version			$Revision: $
-* @author			Jerry Hutchings <jerry.hutchings@vbulletin.com>
-* @checkedout		$Name$
 * @date				$Date: 2009-03-06 13:01:20 -0800 (Fri, 06 Mar 2009) $
 * @copyright		http://www.vbulletin.com/license.html
 *

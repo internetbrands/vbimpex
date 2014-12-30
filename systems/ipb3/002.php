@@ -12,9 +12,6 @@
 * ipb3_001 Associate Users
 *
 * @package			ImpEx.ipb3
-* @version			$Revision: $
-* @author			Jerry Hutchings <jerry.hutchings@vbulletin.com>
-* @checkedout		$Name$
 * @date				$Date: 2006-04-03 01:54:07 -0700 (Mon, 03 Apr 2006) $
 * @copyright		http://www.vbulletin.com/license.html
 *

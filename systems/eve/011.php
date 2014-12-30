@@ -3,9 +3,6 @@
 * eve_011 Import Attachment module
 *
 * @package			ImpEx.eve
-* @version			$Revision: $
-* @author			Jerry Hutchings <jerry.hutchings@vbulletin.com>
-* @checkedout		$Name$
 * @date				$Date: 2007-03-28 11:22:19 -0400 (Wed, 28 Mar 2007) $
 * @copyright		http://www.vbulletin.com/license.html
 *

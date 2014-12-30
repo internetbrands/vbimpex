@@ -13,10 +13,7 @@ if (!defined('IDIR')) { die; }
 * smf2
 *
 * @package 		ImpEx.smf2
-* @version
-* @author		Jerry Hutchings <jerry.hutchings@vbulletin.com>
-* @checkedout	$Name: $
-* @date 		$Date: $
+* * @date 		$Date: $
 * @copyright 	http://www.vbulletin.com/license.html
 *
 */

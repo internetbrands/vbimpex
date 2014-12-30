@@ -16,9 +16,6 @@
 *
 *
 * @package 		ImpEx
-* @version		$Revision: $
-* @author		Jerry Hutchings <jerry.hutchings@vbulletin.com>
-* @checkedout	$Name$
 * @date 		$Date: 2011-10-21 18:59:56 -0400 (Fri, 21 Oct 2011) $
 * @copyright 	http://www.vbulletin.com/license.html
 *

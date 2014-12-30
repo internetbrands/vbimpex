@@ -12,9 +12,6 @@ if (!defined('IDIR')) { die; }
 /**
 *
 * @package			ImpEx.gossamer_threads
-* @version			$Revision: $
-* @author			Jerry Hutchings <jerry.hutchings@vbulletin.com>
-* @checkedout		$Name $
 * @date				$Date: $
 * @copyright		http://www.vbulletin.com/license.html
 *

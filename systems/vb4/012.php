@@ -12,9 +12,6 @@
 * vb4 Import Moderators
 *
 * @package 		ImpEx.vb4
-* @version		$Revision: $
-* @author		Jerry Hutchings <jerry.hutchings@vbulletin.com>
-* @checkedout 	$Name$
 * @date 		$Date: 2007-07-23 14:13:50 -0700 (Mon, 23 Jul 2007) $
 * @copyright 	http://www.vbulletin.com/license.html
 *

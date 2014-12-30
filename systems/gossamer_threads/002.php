@@ -13,10 +13,7 @@ if (!defined('IDIR')) { die; }
 * gossamer_threads_002
 *
 * @package 		ImpEx.gossamer_threads
-* @version		$Revision: $
-* @author		Jerry Hutchings <jerry.hutchings@vbulletin.com>
-* @checkedout	$Name $
-* @date 		$Date: $
+* @date	$Date: $
 * @copyright 	http://www.vbulletin.com/license.html
 *
 */

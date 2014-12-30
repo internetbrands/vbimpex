@@ -12,9 +12,6 @@
 * ipb3 API module
 *
 * @package			ImpEx.ipb3
-* @version			$Revision: $
-* @author			Jerry Hutchings <jerry.hutchings@vbulletin.com>
-* @checkedout		$Name$
 * @date				$Date: 2008-06-13 16:56:15 -0700 (Fri, 13 Jun 2008) $
 * @copyright		http://www.vbulletin.com/license.html
 *

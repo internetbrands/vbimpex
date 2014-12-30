@@ -12,8 +12,6 @@
 * vbcms 004 Import categories
 * 
 * @package         ImpEx.vbcms
-* @version        $Revision: $
-* @checkedout    $Name:  $
 * @date         $Date: 2009-12-17 19:35:15 -0800 (Thu, 17 Dec 2009) $
 * @copyright     http://www.vbulletin.com/license.html
 *

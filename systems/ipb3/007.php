@@ -12,9 +12,6 @@
 * ipb3_007 Import Post module
 *
 * @package			ImpEx.ipb3
-* @version			$Revision: $
-* @author			Jerry Hutchings <jerry.hutchings@vbulletin.com>
-* @checkedout		$Name$
 * @date				$Date: 2008-12-03 12:24:36 -0800 (Wed, 03 Dec 2008) $
 * @copyright		http://www.vbulletin.com/license.html
 *

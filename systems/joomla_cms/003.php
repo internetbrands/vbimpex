@@ -12,9 +12,6 @@
 * joomla1.5_003 Import Users module
 *
 * @package         ImpEx.joomla1.5
-* @version        $Revision: $
-* @author        Jerry Hutchings <jerry.hutchings@vbulletin.com>
-* @checkedout    $Name$
 * @date         $Date: 2009-12-17 19:35:15 -0800 (Thu, 17 Dec 2009) $
 * @copyright     http://www.vbulletin.com/license.html
 *

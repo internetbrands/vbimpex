@@ -5,16 +5,13 @@
 || # ----------------------------------------------------------------
 || # All PHP code in this file is Copyright 2000-2014 vBulletin Solutions Inc.
 || # This code is made available under the Modified BSD License -- see license.txt
-|| # http://www.vbulletin.com 
+|| # http://www.vbulletin.com
 || ####################################################################
 \*======================================================================*/
 /**
 * webcrossing API module
 *
 * @package			ImpEx.webcrossing
-* @version			$Revision: $
-* @author			Jerry Hutchings <jerry.hutchings@vbulletin.com>
-* @checkedout		$Name$
 * @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 * @copyright		http://www.vbulletin.com/license.html
 *
@@ -177,9 +174,6 @@ define('WC_STATE_FLAG_READ', 0x8000);
 * Web Crossing export parser
 *
 * @package			ImpEx.webcrossing
-* @version			$Revision: $
-* @author			Mike Sullivan <mike.sullivan@vbulletin.com>
-* @checkedout		$Name$
 * @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 * @copyright		http://www.vbulletin.com/license.html
 *

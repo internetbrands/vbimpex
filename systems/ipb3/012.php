@@ -12,9 +12,6 @@
 * ipb3_012 Import Smilie module
 *
 * @package			ImpEx.ipb3
-* @version			$Revision: $
-* @author			Jerry Hutchings <jerry.hutchings@vbulletin.com>
-* @checkedout		$Name$
 * @date				$Date: 2007-08-16 19:01:27 -0700 (Thu, 16 Aug 2007) $
 * @copyright		http://www.vbulletin.com/license.html
 *

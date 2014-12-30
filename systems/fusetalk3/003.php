@@ -12,9 +12,6 @@
 * fusetalk_003 Import User module
 *
 * @package			ImpEx.fusetalk
-* @version			$Revision: $
-* @author			Jerry Hutchings <jerry.hutchings@vbulletin.com>
-* @checkedout		$Name$
 * @date				$Date: 2007-06-21 18:00:32 -0700 (Thu, 21 Jun 2007) $
 * @copyright		http://www.vbulletin.com/license.html
 *

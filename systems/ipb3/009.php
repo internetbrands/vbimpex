@@ -12,9 +12,6 @@
 * ipb3_009 Import Pm module
 *
 * @package			ImpEx.ipb3
-* @version			$Revision: $
-* @author			Jerry Hutchings <jerry.hutchings@vbulletin.com>
-* @checkedout		$Name$
 * @date				$Date: 2008-10-29 15:46:01 -0700 (Wed, 29 Oct 2008) $
 * @copyright		http://www.vbulletin.com/license.html
 *

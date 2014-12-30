@@ -13,9 +13,6 @@ if (!defined('IDIR')) { die; }
 * vBforum2blog_001
 *
 * @package 		ImpEx.vBforum2blog
-* @version		$Revision: $
-* @author		Jerry Hutchings <jerry.hutchings@vbulletin.com>
-* @checkedout	$Name$
 * @date 		$Date: $
 * @copyright 	http://www.vbulletin.com/license.html
 *

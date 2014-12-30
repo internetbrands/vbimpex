@@ -13,10 +13,7 @@ if (!defined('IDIR')) { die; }
 * InvisionCommunityBlog
 *
 * @package 		ImpEx.InvisionCommunityBlog
-* @version
-* @author		Jerry Hutchings <jerry.hutchings@vbulletin.com>
-* @checkedout	$Name: $
-* @date 		$Date: $
+* * @date 		$Date: $
 * @copyright 	http://www.vbulletin.com/license.html
 *
 */

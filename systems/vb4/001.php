@@ -12,9 +12,6 @@
 * vb4
 *
 * @package 		ImpEx.vb4
-* @version		$Revision: $
-* @author		vBulletin
-* @checkedout	$Name$
 * @date 		$Date: 2007-07-23 14:13:50 -0700 (Mon, 23 Jul 2007) $
 * @copyright 	http://www.vbulletin.com/license.html
 *

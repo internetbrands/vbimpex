@@ -13,9 +13,6 @@ if (!defined('IDIR')) { die; }
 * mysmartbb_001
 *
 * @package 		ImpEx.mysmartbb
-* @version		$Revision: $
-* @author		Jerry Hutchings <jerry.hutchings@vbulletin.com>
-* @checkedout	$Name$
 * @date 		$Date: $
 * @copyright 	http://www.vbulletin.com/license.html
 *

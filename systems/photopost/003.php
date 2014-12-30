@@ -12,8 +12,6 @@
 * photopost_003 Import Usergroup module
 *
 * @package			ImpEx.photopost
-* @version			$Revision$
-* @author			Marco van Herwaarden <marco.van.herwaarden@vbulletin.com>
 * @date				$Date$
 * @copyright		http://www.vbulletin.com/license.html
 *

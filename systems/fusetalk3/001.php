@@ -12,9 +12,6 @@
 * fusetalk_001 Check system module
 *
 * @package			ImpEx.fusetalk
-* @version			$Revision: $
-* @author			Jerry Hutchings <jerry.hutchings@vbulletin.com>
-* @checkedout		$Name$
 * @date				$Date: 2006-09-12 14:11:27 -0700 (Tue, 12 Sep 2006) $
 * @copyright		http://www.vbulletin.com/license.html
 *

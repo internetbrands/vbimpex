@@ -1,9 +1,6 @@
 <?php
 /*
 * @package 		ImpEx.tools
-* @version		$Revision: $
-* @author		Jerry Hutchings <jerry.hutchings@vbulletin.com>
-* @checkedout	$Name$
 * @date 		$Date: 2006-04-01 18:09:40 -0500 (Sat, 01 Apr 2006) $
 * @copyright 	http://www.vbulletin.com/license.html
 *

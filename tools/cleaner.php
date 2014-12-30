@@ -8,9 +8,6 @@ ignore_user_abort(true);
 error_reporting(E_ALL  & ~E_NOTICE);
 /*
 * @package 		ImpEx.tools
-* @version		$Revision: $
-* @author		Jerry Hutchings <jerry.hutchings@vbulletin.com>
-* @checkedout	$Name$
 * @date 		$Date: 2007-08-21 17:03:19 -0400 (Tue, 21 Aug 2007) $
 * @copyright 	http://www.vbulletin.com/license.html
 *

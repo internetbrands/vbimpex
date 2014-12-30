@@ -12,9 +12,6 @@
 * phpBB2 Import Smilies
 *
 * @package 		ImpEx.phpBB
-* @version		$Revision: $
-* @author		Jerry Hutchings <jerry.hutchings@vbulletin.com>
-* @checkedout	$Name$
 * @date 		$Date: 2006-04-03 03:24:38 -0700 (Mon, 03 Apr 2006) $
 * @copyright 	http://www.vbulletin.com/license.html
 *

@@ -13,9 +13,6 @@ if (!defined('IDIR')) { die; }
 * wordpress_001
 *
 * @package 		ImpEx.wordpress
-* @version		$Revision: $
-* @author		Jerry Hutchings <jerry.hutchings@vbulletin.com>
-* @checkedout	$Name$
 * @date 		$Date: $
 * @copyright 	http://www.vbulletin.com/license.html
 *

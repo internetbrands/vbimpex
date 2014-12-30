@@ -13,9 +13,6 @@ if (!defined('IDIR')) { die; }
 * expressionengine
 *
 * @package 		ImpEx.expressionengine
-* @version		
-* @author		Jerry Hutchings <jerry.hutchings@vbulletin.com>
-* @checkedout	$Name: $
 * @date 		$Date: $
 * @copyright 	http://www.vbulletin.com/license.html
 *

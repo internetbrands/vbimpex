@@ -12,9 +12,6 @@
 * ipb2_008 Import Poll module
 *
 * @package			ImpEx.ipb2
-* @version			$Revision: $
-* @author			Jerry Hutchings <jerry.hutchings@vbulletin.com>
-* @checkedout		$Name$
 * @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 * @copyright		http://www.vbulletin.com/license.html
 *

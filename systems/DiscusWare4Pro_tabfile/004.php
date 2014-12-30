@@ -12,8 +12,6 @@
 * DiscusWare4Pro_tabfile_004 Import Thread module
 *
 * @package			ImpEx.DiscusWare4Pro_tabfile
-* @version			$Revision: $
-* @author			Jerry Hutchings <jerry.hutchings@vbulletin.com>
 * @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 * @copyright		http://www.vbulletin.com/license.html
 *

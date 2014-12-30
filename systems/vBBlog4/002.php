@@ -13,9 +13,6 @@ if (!defined('IDIR')) { die; }
 * vBulletin Suite Blog 4.x
 *
 * @package 		ImpEx.vBulletinBlog4
-* @version
-* @author
-* @checkedout	$Name: $
 * @date 		$Date: $
 * @copyright 	http://www.vbulletin.com/license.html
 *

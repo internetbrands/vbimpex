@@ -14,9 +14,6 @@
 * This handles interaction with the different types of database.
 *
 * @package 		ImpEx
-* @version		$Revision: $
-* @author		Jerry Hutchings <jerry.hutchings@vbulletin.com>
-* @checkedout	$Name$
 * @date 		$Date: 2007-07-19 13:46:44 -0700 (Thu, 19 Jul 2007) $
 * @copyright 	http://www.vbulletin.com/license.html
 *

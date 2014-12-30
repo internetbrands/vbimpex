@@ -13,10 +13,7 @@ if (!defined('IDIR')) { die; }
 * phpBB3_002
 *
 * @package 		ImpEx.phpBB3
-* @version		$Revision: $
-* @author		Jerry Hutchings <jerry.hutchings@vbulletin.com>
-* @checkedout	$Name $
-* @date 		$Date: $
+* @date	$Date: $
 * @copyright 	http://www.vbulletin.com/license.html
 *
 */

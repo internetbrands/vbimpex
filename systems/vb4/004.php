@@ -12,9 +12,6 @@
 * vb4 Import Users module
 *
 * @package 		ImpEx.vb4
-* @version		$Revision: $
-* @author		Jerry Hutchings <jerry.hutchings@vbulletin.com>
-* @checkedout	$Name$
 * @date 		$Date: 2008-11-10 13:56:59 -0800 (Mon, 10 Nov 2008) $
 * @copyright 	http://www.vbulletin.com/license.html
 *

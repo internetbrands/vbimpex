@@ -12,9 +12,6 @@
 * vb4_000
 *
 * @package 		ImpEx.vb4
-* @version		$Revision: $
-* @author		vBulletin
-* @checkedout	$Name$
 * @date 		$Date: 2009-03-06 13:54:53 -0800 (Fri, 06 Mar 2009) $
 * @copyright 	http://www.vbulletin.com/license.html
 *

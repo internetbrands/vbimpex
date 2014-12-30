@@ -13,10 +13,7 @@ if (!defined('IDIR')) { die; }
 * ubbthreads7_002
 *
 * @package 		ImpEx.ubbthreads7
-* @version		$Revision: $
-* @author		Jerry Hutchings <jerry.hutchings@vbulletin.com>
-* @checkedout	$Name $
-* @date 		$Date: $
+* @date	$Date: $
 * @copyright 	http://www.vbulletin.com/license.html
 *
 */
