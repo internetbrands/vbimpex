@@ -1,19 +1,18 @@
 <?php if (!defined('IDIR')) { die; }
 /*======================================================================*\
-|| #################################################################### ||
+|| ####################################################################
 || # vBulletin Impex
-|| # ---------------------------------------------------------------- # ||
-|| # All PHP code in this file is ©2000-2014 vBulletin Solutions Inc. # ||
-|| # This code is made available under the Modified BSD License -- see license.txt # ||
-|| # ---------------- VBULLETIN IS NOT FREE SOFTWARE ---------------- # ||
-|| # http://www.vbulletin.com | http://www.vbulletin.com/license.html # ||
-|| #################################################################### ||
+|| # ----------------------------------------------------------------
+|| # All PHP code in this file is Copyright 2000-2014 vBulletin Solutions Inc.
+|| # This code is made available under the Modified BSD License -- see license.txt
+|| # http://www.vbulletin.com 
+|| ####################################################################
 \*======================================================================*/
 /**
 * vb4 Import Moderators
 *
 * @package 		ImpEx.vb4
-* @version		$Revision: 1782 $
+* @version		$Revision: $
 * @author		Jerry Hutchings <jerry.hutchings@vbulletin.com>
 * @checkedout 	$Name$
 * @date 		$Date: 2007-07-23 14:13:50 -0700 (Mon, 23 Jul 2007) $
@@ -168,7 +167,7 @@ class vb4_012 extends vb4_000
 /*======================================================================*\
 || ####################################################################
 || # Downloaded: [#]zDCFmuilddate[#]
-|| # CVS: $RCSfile$ - $Revision: 1782 $
+|| # CVS: $RCSfile$ - $Revision: $
 || ####################################################################
 \*======================================================================*/
 ?>

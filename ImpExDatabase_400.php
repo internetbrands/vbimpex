@@ -1,13 +1,12 @@
 <?php
 /*======================================================================*\
-|| #################################################################### ||
+|| ####################################################################
 || # vBulletin Impex
-|| # ---------------------------------------------------------------- # ||
-|| # All PHP code in this file is Copyright 2000-2014 vBulletin Solutions Inc. # ||
-|| # This code is made available under the Modified BSD License -- see license.txt # ||
-|| # ---------------- VBULLETIN IS NOT FREE SOFTWARE ---------------- # ||
-|| # http://www.vbulletin.com | http://www.vbulletin.com/license.html # ||
-|| #################################################################### ||
+|| # ----------------------------------------------------------------
+|| # All PHP code in this file is Copyright 2000-2014 vBulletin Solutions Inc.
+|| # This code is made available under the Modified BSD License -- see license.txt
+|| # http://www.vbulletin.com 
+|| ####################################################################
 \*======================================================================*/
 /**
 * The database proxy object.
@@ -15,7 +14,7 @@
 * This handles interaction with the different types of database.
 *
 * @package 		ImpEx
-* @version		$Revision: 1830 $
+* @version		$Revision: $
 * @author		Jerry Hutchings <jerry.hutchings@vbulletin.com>
 * @checkedout	$Name$
 * @date 		$Date: 2007-08-23 17:22:48 -0700 (Thu, 23 Aug 2007) $
@@ -54,10 +53,5 @@ class ImpExDatabase extends ImpExDatabaseCore
 		return $this->import_vb4_attachment($Db_object, $databasetype, $tableprefix, $import_post_id = true);
 	}
 }
-/*======================================================================*\
-|| ####################################################################
-|| # Downloaded: [#]zipbuilddate[#]
-|| # CVS: $RCSfile$ - $Revision: 1830 $
-|| ####################################################################
-\*======================================================================*/
+/*======================================================================*/
 ?>

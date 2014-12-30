@@ -1,19 +1,18 @@
 <?php if (!defined('IDIR')) { die; }
 /*======================================================================*\
-|| #################################################################### ||
+|| ####################################################################
 || # vBulletin Impex
-|| # ---------------------------------------------------------------- # ||
-|| # All PHP code in this file is ©2000-2014 vBulletin Solutions Inc. # ||
-|| # This code is made available under the Modified BSD License -- see license.txt # ||
-|| # ---------------- VBULLETIN IS NOT FREE SOFTWARE ---------------- # ||
-|| # http://www.vbulletin.com | http://www.vbulletin.com/license.html # ||
-|| #################################################################### ||
+|| # ----------------------------------------------------------------
+|| # All PHP code in this file is Copyright 2000-2014 vBulletin Solutions Inc.
+|| # This code is made available under the Modified BSD License -- see license.txt
+|| # http://www.vbulletin.com 
+|| ####################################################################
 \*======================================================================*/
 /**
 * fusetalk3_010 Import Author Icons module
 *
 * @package			ImpEx.fusetalk
-* @version			$Revision: 1363 $
+* @version			$Revision: $
 * @author			Jerry Hutchings <jerry.hutchings@vbulletin.com>
 * @checkedout		$Name$
 * @date				$Date: 2006-04-03 01:46:42 -0700 (Mon, 03 Apr 2006) $
@@ -271,10 +270,5 @@ class fusetalk3_010 extends fusetalk3_000
 		$displayobject->update_html($displayobject->print_redirect('index.php'));
 	}// End resume
 }
-/*======================================================================*\
-|| ####################################################################
-|| # Downloaded: [#]zipbuilddate[#]
-|| # CVS: $RCSfile$ - $Revision: 1363 $
-|| ####################################################################
-\*======================================================================*/
+/*======================================================================*/
 ?>

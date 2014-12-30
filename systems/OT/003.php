@@ -1,19 +1,18 @@
 <?php if (!defined('IDIR')) { die; }
 /*======================================================================*\
-|| #################################################################### ||
+|| ####################################################################
 || # vBulletin Impex
-|| # ---------------------------------------------------------------- # ||
-|| # All PHP code in this file is ©2000-2014 vBulletin Solutions Inc. # ||
-|| # This code is made available under the Modified BSD License -- see license.txt # ||
-|| # ---------------- VBULLETIN IS NOT FREE SOFTWARE ---------------- # ||
-|| # http://www.vbulletin.com | http://www.vbulletin.com/license.html # ||
-|| #################################################################### ||
+|| # ----------------------------------------------------------------
+|| # All PHP code in this file is Copyright 2000-2014 vBulletin Solutions Inc.
+|| # This code is made available under the Modified BSD License -- see license.txt
+|| # http://www.vbulletin.com 
+|| ####################################################################
 \*======================================================================*/
 /**
 * OT Import Forums
 *
 * @package 		ImpEx.OT
-* @version		$Revision: 2321 $
+* @version		$Revision: $
 * @author		Jerry Hutchings <jerry.hutchings@vbulletin.com>
 * @checkedout	$Name$
 * @date 		$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
@@ -284,10 +283,5 @@ class OT_003 extends OT_000
 		$displayobject->update_html($displayobject->print_redirect('index.php'));
 	}
 }
-/*======================================================================*\
-|| ####################################################################
-|| # Downloaded: [#]zipbuilddate[#]
-|| # CVS: $RCSfile$ - $Revision: 2321 $
-|| ####################################################################
-\*======================================================================*/
+/*======================================================================*/
 ?>

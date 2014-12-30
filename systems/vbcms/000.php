@@ -1,19 +1,18 @@
 <?php if (!defined('IDIR')) { die; }
 /*======================================================================*\
-|| #################################################################### ||
+|| ####################################################################
 || # vBulletin Impex
-|| # ---------------------------------------------------------------- # ||
-|| # All PHP code in this file is Copyright 2000-2014 vBulletin Solutions Inc. # ||
-|| # This code is made available under the Modified BSD License -- see license.txt # ||
-|| # ---------------- VBULLETIN IS NOT FREE SOFTWARE ---------------- # ||
-|| # http://www.vbulletin.com | http://www.vbulletin.com/license.html # ||
-|| #################################################################### ||
+|| # ----------------------------------------------------------------
+|| # All PHP code in this file is Copyright 2000-2014 vBulletin Solutions Inc.
+|| # This code is made available under the Modified BSD License -- see license.txt
+|| # http://www.vbulletin.com 
+|| ####################################################################
 \*======================================================================*/
 /** 
 * wordpress_000
 *
 * @package      ImpEx.wordpress
-* @version      $Revision: 2255 $
+* @version      $Revision: $
 * @author       Jerry Hutchings <jerry.hutchings@vbulletin.com>
 * @checkedout   $Name:  $
 * @date         $Date: 2009-12-17 19:35:15 -0800 (Thu, 17 Dec 2009) $
@@ -202,6 +201,6 @@ class vbcms_000 extends ImpExModule
 /*======================================================================*\
 || ####################################################################
 || # Downloaded: [#]zipbuilddate[#]
-|| # CVS: $RCSfile: 000.php,v $ - $Revision: 2255 $
+|| # CVS: $RCSfile: 000.php,v $ - $Revision: $
 || ####################################################################
 \*======================================================================*/

@@ -3,7 +3,7 @@
 *
 * @package 		ImpEx
 * @author		Jerry Hutchings <jerry.hutchings@vbulletin.com>
-* @version		$Revision: 2282 $
+* @version		$Revision: $
 * @date 		$Date: 2010-02-07 21:33:09 -0500 (Sun, 07 Feb 2010) $
 *
 */

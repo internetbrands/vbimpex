@@ -1,19 +1,18 @@
 <?php if (!defined('IDIR')) { die; }
 /*======================================================================*\
-|| #################################################################### ||
+|| ####################################################################
 || # vBulletin Impex
-|| # ---------------------------------------------------------------- # ||
-|| # All PHP code in this file is ©2000-2014 vBulletin Solutions Inc. # ||
-|| # This code is made available under the Modified BSD License -- see license.txt # ||
-|| # ---------------- VBULLETIN IS NOT FREE SOFTWARE ---------------- # ||
-|| # http://www.vbulletin.com | http://www.vbulletin.com/license.html # ||
-|| #################################################################### ||
+|| # ----------------------------------------------------------------
+|| # All PHP code in this file is Copyright 2000-2014 vBulletin Solutions Inc.
+|| # This code is made available under the Modified BSD License -- see license.txt
+|| # http://www.vbulletin.com 
+|| ####################################################################
 \*======================================================================*/
 /**
 * vb4 Import Users groups and ranks
 *
 * @package 		ImpEx.vb4
-* @version		$Revision: 2060 $
+* @version		$Revision: $
 * @author		Jerry Hutchings <jerry.hutchings@vbulletin.com>
 * @checkedout	$Name$
 * @date 		$Date: 2008-07-30 10:00:00 -0700 (Wed, 30 Jul 2008) $
@@ -236,7 +235,7 @@ class vb4_003 extends vb4_000
 /*======================================================================*\
 || ####################################################################
 || # Downloaded: [#]zeveuilddate[#]
-|| # CVS: $RCSfile$ - $Revision: 2060 $
+|| # CVS: $RCSfile$ - $Revision: $
 || ####################################################################
 \*======================================================================*/
 ?>

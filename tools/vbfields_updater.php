@@ -1,7 +1,7 @@
 <?php
 /*
 * @package 		ImpEx.tools
-* @version		$Revision: 1352 $
+* @version		$Revision: $
 * @author		Jerry Hutchings <jerry.hutchings@vbulletin.com>
 * @checkedout	$Name$
 * @date 		$Date: 2006-04-01 18:09:40 -0500 (Sat, 01 Apr 2006) $

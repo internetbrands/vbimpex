@@ -1,7 +1,7 @@
 <?
 /*
 * @package 		ImpEx.tools
-* @version		$Revision: 2286 $
+* @version		$Revision: $
 * @author		Jerry Hutchings <jerry.hutchings@vbulletin.com>
 * @checkedout	$Name$
 * @date 		$Date: 2010-02-27 15:36:08 -0500 (Sat, 27 Feb 2010) $

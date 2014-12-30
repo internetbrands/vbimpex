@@ -1,13 +1,12 @@
 <?php
 /*======================================================================*\
-|| #################################################################### ||
+|| ####################################################################
 || # vBulletin Impex
-|| # ---------------------------------------------------------------- # ||
-|| # All PHP code in this file is Copyright 2000-2014 vBulletin Solutions Inc. # ||
-|| # This code is made available under the Modified BSD License -- see license.txt # ||
-|| # ---------------- VBULLETIN IS NOT FREE SOFTWARE ---------------- # ||
-|| # http://www.vbulletin.com | http://www.vbulletin.com/license.html # ||
-|| #################################################################### ||
+|| # ----------------------------------------------------------------
+|| # All PHP code in this file is Copyright 2000-2014 vBulletin Solutions Inc.
+|| # This code is made available under the Modified BSD License -- see license.txt
+|| # http://www.vbulletin.com 
+|| ####################################################################
 \*======================================================================*/
 
 /**
@@ -19,7 +18,7 @@
 * be overridden.
 *
 * @package 		ImpEx
-* @version		$Revision: 2367 $
+* @version		$Revision: $
 * @author		Jerry Hutchings <jerry.hutchings@vbulletin.com>
 * @checkedout	$Name$
 * @date 		$Date: 2011-10-21 18:59:56 -0400 (Fri, 21 Oct 2011) $
@@ -351,10 +350,5 @@ class ImpExModule extends ImpExDatabase
 		return $moduleclassarray;
 	}
 }
-/*======================================================================*\
-|| ####################################################################
-|| # Downloaded: [#]zipbuilddate[#]
-|| # CVS: $RCSfile$ - $Revision: 2367 $
-|| ####################################################################
-\*======================================================================*/
+/*======================================================================*/
 ?>
