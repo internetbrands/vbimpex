@@ -5,8 +5,7 @@
 || # ----------------------------------------------------------------
 || # All PHP code in this file is Copyright 2000-2014 vBulletin Solutions Inc.
 || # This code is made available under the Modified BSD License -- see license.txt
-|| # ---------------- VBULLETIN IS NOT FREE SOFTWARE ---------------- # ||
-|| # http://www.vbulletin.com | http://www.vbulletin.com/liceNse.html # ||
+|| # http://www.vbulletin.com
 || ####################################################################
 \*======================================================================*/
 /**
