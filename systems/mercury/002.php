@@ -14,7 +14,6 @@
 * mercury_001 Associate Users
 *
 * @package			ImpEx.mercury
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class mercury_002 extends mercury_000

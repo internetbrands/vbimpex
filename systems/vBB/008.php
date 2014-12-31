@@ -12,7 +12,6 @@
 * vBB_007 Import Smilie module
 *
 * @package			ImpEx.vBB
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class vBB_008 extends vBB_000

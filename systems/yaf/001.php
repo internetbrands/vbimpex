@@ -13,7 +13,6 @@ if (!defined('IDIR')) { die; }
 * yaf_001
 *
 * @package 		ImpEx.yaf
-* @date 		$Date: $
 *
 */
 

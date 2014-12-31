@@ -12,7 +12,6 @@
 * fudforum_010 Import Pmtext module
 *
 * @package			ImpEx.fudforum
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class fudforum_010 extends fudforum_000

@@ -12,7 +12,6 @@
 * ubb_threads_007 Import Post module
 *
 * @package			ImpEx.ubb_threads
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class ubb_threads_007 extends ubb_threads_000

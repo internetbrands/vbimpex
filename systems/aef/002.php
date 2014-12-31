@@ -13,7 +13,6 @@ if (!defined('IDIR')) { die; }
 * aef_002
 *
 * @package 		ImpEx.aef
-* @date	$Date: $
 *
 */
 

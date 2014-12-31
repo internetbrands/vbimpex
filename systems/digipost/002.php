@@ -14,7 +14,6 @@
 * digipost_001 Associate Users
 *
 * @package			ImpEx.digipost
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class digipost_002 extends digipost_000

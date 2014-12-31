@@ -12,7 +12,6 @@
 * tritaniumbb2 API module
 *
 * @package			ImpEx.tritaniumbb2
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class tritaniumbb2_000 extends ImpExModule

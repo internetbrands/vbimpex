@@ -12,7 +12,6 @@
 * aspnet_006 Import Post module
 *
 * @package			ImpEx.aspnet
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class aspnet_006 extends aspnet_000

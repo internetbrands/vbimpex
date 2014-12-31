@@ -12,7 +12,6 @@
 * megaBBS_005 Import Forum module
 *
 * @package			ImpEx.megaBBS
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class megaBBS_005 extends megaBBS_000

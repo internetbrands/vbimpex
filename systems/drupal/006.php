@@ -12,7 +12,6 @@
 * drupal_006 Import Post module
 *
 * @package			ImpEx.drupal
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class drupal_006 extends drupal_000

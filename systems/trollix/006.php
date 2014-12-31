@@ -12,7 +12,6 @@
 * trollix_006 Import Post module
 *
 * @package			ImpEx.trollix
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class trollix_006 extends trollix_000

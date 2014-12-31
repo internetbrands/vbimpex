@@ -13,8 +13,7 @@ if (!defined('IDIR')) { die; }
 * wordpress
 *
 * @package 		ImpEx.wordpress
-* * @date 		$Date: $
-*
+* *
 */
 
 class wordpress_000 extends ImpExModule

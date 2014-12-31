@@ -12,7 +12,6 @@
 * fusetalk_001 Check system module
 *
 * @package			ImpEx.fusetalk
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class fusetalk_001 extends fusetalk_000

@@ -12,7 +12,6 @@
 * eve_004 Import Forum module
 *
 * @package			ImpEx.eve
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class eve_004 extends eve_000

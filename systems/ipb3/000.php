@@ -12,7 +12,6 @@
 * ipb3 API module
 *
 * @package			ImpEx.ipb3
-* @date				$Date: 2008-06-13 16:56:15 -0700 (Fri, 13 Jun 2008) $
 *
 */
 class ipb3_000 extends ImpExModule

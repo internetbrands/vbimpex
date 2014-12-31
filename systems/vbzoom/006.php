@@ -12,7 +12,6 @@
 * vbzoom_006 Import Post module
 *
 * @package			ImpEx.vbzoom
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class vbzoom_006 extends vbzoom_000

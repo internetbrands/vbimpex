@@ -12,7 +12,6 @@
 * yabb2_004 Import Thread module
 *
 * @package			ImpEx.yabb2
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class yabb2_004 extends yabb2_000

@@ -14,7 +14,6 @@
 * punbb_001 Associate Users
 *
 * @package			ImpEx.punbb
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class punbb_002 extends punbb_000

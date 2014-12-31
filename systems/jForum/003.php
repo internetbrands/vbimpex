@@ -12,7 +12,6 @@
 * jForum_003 Import Usergroup module
 *
 * @package			ImpEx.jForum
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class jForum_003 extends jForum_000

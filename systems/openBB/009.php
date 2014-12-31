@@ -12,7 +12,6 @@
 * openBB_009 Import Pmtext module
 *
 * @package			ImpEx.openBB
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class openBB_009 extends openBB_000

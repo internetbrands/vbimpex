@@ -12,7 +12,6 @@
 * vb4 Import Users module
 *
 * @package 		ImpEx.vb4
-* @date 		$Date: 2008-11-10 13:56:59 -0800 (Mon, 10 Nov 2008) $
 *
 */
 class vb4_004 extends vb4_000

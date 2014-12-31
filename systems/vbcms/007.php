@@ -13,7 +13,6 @@ if (!defined('IDIR')) { die; }
 * vBulletin Suite CMS
 *
 * @package 		ImpEx.vBulletincms
-* @date 		$Date: $
 *
 */
 

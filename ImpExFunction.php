@@ -14,7 +14,6 @@
 * If a function is used in more that two places it goes here.
 *
 * @package 		ImpEx
-* @date 		$Date: 2011-08-30 14:38:02 -0400 (Tue, 30 Aug 2011) $
 *
 */
 

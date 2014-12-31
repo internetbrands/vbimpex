@@ -12,7 +12,6 @@
 * photopost_003 Import Usergroup module
 *
 * @package			ImpEx.photopost
-* @date				$Date$
 *
 */
 

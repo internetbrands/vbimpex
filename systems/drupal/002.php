@@ -14,7 +14,6 @@
 * drupal_001 Associate Users
 *
 * @package			ImpEx.drupal
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class drupal_002 extends drupal_000

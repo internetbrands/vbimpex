@@ -12,7 +12,6 @@
 * joomla1.5_002
 *
 * @package         ImpEx.joomla1.5
-* @date         $Date: 2009-12-17 19:35:15 -0800 (Thu, 17 Dec 2009) $
 *
 */
 

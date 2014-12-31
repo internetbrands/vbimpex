@@ -12,7 +12,6 @@
 * xsorbit_004 Import User module
 *
 * @package			ImpEx.xsorbit
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class xsorbit_004 extends xsorbit_000

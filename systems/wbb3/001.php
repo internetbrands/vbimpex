@@ -13,7 +13,6 @@ if (!defined('IDIR')) { die; }
 * wbb3_001
 *
 * @package 		ImpEx.wbb3
-* @date 		$Date: $
 *
 */
 

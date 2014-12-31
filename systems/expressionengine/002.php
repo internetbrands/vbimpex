@@ -13,7 +13,6 @@ if (!defined('IDIR')) { die; }
 * expressionengine_002
 *
 * @package 		ImpEx.expressionengine
-* @date	$Date: $
 *
 */
 

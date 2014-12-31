@@ -8,7 +8,6 @@ ignore_user_abort(true);
 error_reporting(E_ALL  & ~E_NOTICE);
 /*
 * @package 		ImpEx.tools
-* @date 		$Date: 2007-08-21 17:03:19 -0400 (Tue, 21 Aug 2007) $
 *
 */
 // BACK UP YOUR DATABASE

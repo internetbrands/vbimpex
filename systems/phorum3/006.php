@@ -12,7 +12,6 @@
 * phorum3_006 Import Post module
 *
 * @package			ImpEx.phorum3
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class phorum3_006 extends phorum3_000

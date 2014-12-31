@@ -12,7 +12,6 @@
 * ipb3_001 Associate Users
 *
 * @package			ImpEx.ipb3
-* @date				$Date: 2006-04-03 01:54:07 -0700 (Mon, 03 Apr 2006) $
 *
 */
 class ipb3_002 extends ipb3_000

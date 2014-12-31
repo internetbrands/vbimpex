@@ -12,7 +12,6 @@
 * wowBB_003 Import Usergroup module
 *
 * @package			ImpEx.wowBB
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class wowBB_003 extends wowBB_000

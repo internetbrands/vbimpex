@@ -13,8 +13,7 @@ if (!defined('IDIR')) { die; }
 * vBJournal
 *
 * @package 		ImpEx.vBJournal
-* * @date 		$Date: $
-*
+* *
 */
 
 class vBJournal_000 extends ImpExModule

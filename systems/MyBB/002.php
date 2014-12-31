@@ -14,7 +14,6 @@
 * MyBB_001 Associate Users
 *
 * @package			ImpEx.MyBB
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class MyBB_002 extends MyBB_000

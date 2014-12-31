@@ -12,7 +12,6 @@
 * xmb_009 Import Pmtext module
 *
 * @package			ImpEx.xmb
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class xmb_009 extends xmb_000

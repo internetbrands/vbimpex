@@ -13,7 +13,6 @@ if (!defined('IDIR')) { die; }
 * gossamer_threads_002
 *
 * @package 		ImpEx.gossamer_threads
-* @date	$Date: $
 *
 */
 

@@ -12,7 +12,6 @@
 * fusetalk API module
 *
 * @package			ImpEx.fusetalk
-* @date				$Date: 2009-03-06 13:01:20 -0800 (Fri, 06 Mar 2009) $
 *
 */
 require_once (IDIR . '/systems/fusetalk/000.php');

@@ -12,7 +12,6 @@
 * fusetalk_001 Check system module
 *
 * @package			ImpEx.fusetalk
-* @date				$Date: 2006-09-12 14:11:27 -0700 (Tue, 12 Sep 2006) $
 *
 */
 require_once IDIR . '/systems/fusetalk/001.php';

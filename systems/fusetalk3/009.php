@@ -12,7 +12,6 @@
 * fusetalk_008 Import Attachment module
 *
 * @package			ImpEx.fusetalk
-* @date				$Date: 2006-04-03 01:46:42 -0700 (Mon, 03 Apr 2006) $
 *
 */
 require_once (IDIR . '/systems/fusetalk/009.php');

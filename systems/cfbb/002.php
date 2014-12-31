@@ -14,7 +14,6 @@
 * cfbb_001 Associate Users
 *
 * @package			ImpEx.cfbb
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class cfbb_002 extends cfbb_000

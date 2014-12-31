@@ -12,7 +12,6 @@
 * xmb_008 Import Ranks module
 *
 * @package			ImpEx.xmb
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class xmb_008 extends xmb_000

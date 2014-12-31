@@ -13,7 +13,6 @@ if (!defined('IDIR')) { die; }
 * dragonfly_002
 *
 * @package 		ImpEx.dragonfly
-* @date	$Date: $
 *
 */
 

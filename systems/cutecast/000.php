@@ -12,7 +12,6 @@
 * cutecast API module
 *
 * @package			ImpEx.cutecast
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class cutecast_000 extends ImpExModule

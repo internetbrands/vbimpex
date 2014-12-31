@@ -12,7 +12,6 @@
 * dotnet_005 Import Forum module
 *
 * @package			ImpEx.dotnet
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class dotnet_005 extends dotnet_000

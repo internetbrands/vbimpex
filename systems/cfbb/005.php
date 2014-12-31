@@ -12,7 +12,6 @@
 * cfbb_005 Import Thread module
 *
 * @package			ImpEx.cfbb
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class cfbb_005 extends cfbb_000

@@ -12,7 +12,6 @@
 * cfbb_006 Import Post module
 *
 * @package			ImpEx.cfbb
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class cfbb_006 extends cfbb_000

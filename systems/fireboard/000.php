@@ -13,7 +13,6 @@ if (!defined('IDIR')) { die; }
 * fireboard
 *
 * @package 		ImpEx.fireboard
-* @date 		$Date: $
 *
 */
 

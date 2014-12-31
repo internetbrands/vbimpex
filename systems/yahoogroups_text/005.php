@@ -12,7 +12,6 @@
 * yahoogroups_text_005 Import Post module
 *
 * @package			ImpEx.yahoogroups_text
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class yahoogroups_text_005 extends yahoogroups_text_000

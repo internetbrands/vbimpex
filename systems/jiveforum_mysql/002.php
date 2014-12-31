@@ -14,7 +14,6 @@
 * jiveforum_mysql_001 Associate Users
 *
 * @package			ImpEx.jiveforum_mysql
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class jiveforum_mysql_002 extends jiveforum_mysql_000

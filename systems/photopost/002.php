@@ -12,7 +12,6 @@
 * photopost_001 Associate Users
 *
 * @package			ImpEx.photopost
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class photopost_002 extends photopost_000

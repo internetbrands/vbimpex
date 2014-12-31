@@ -12,7 +12,6 @@
 * vb2_009 Import Pmtext module
 *
 * @package			ImpEx.vb2
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class vb2_009 extends vb2_000

@@ -12,7 +12,6 @@
 * ipb2_011 Import Attachment module
 *
 * @package			ImpEx.ipb2
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class ipb2_011 extends ipb2_000

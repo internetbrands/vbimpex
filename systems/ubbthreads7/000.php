@@ -13,8 +13,7 @@ if (!defined('IDIR')) { die; }
 * ubbthreads7
 *
 * @package 		ImpEx.ubbthreads7
-* * @date 		$Date: $
-*
+* *
 */
 
 class ubbthreads7_000 extends ImpExModule

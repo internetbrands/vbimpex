@@ -12,7 +12,6 @@
 * DiscusWare4Pro_tabfile_005Import Thread module
 *
 * @package			ImpEx.DiscusWare4Pro_tabfile
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class DiscusWare4Pro_tabfile_005 extends DiscusWare4Pro_tabfile_000

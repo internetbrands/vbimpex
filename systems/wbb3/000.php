@@ -13,8 +13,7 @@ if (!defined('IDIR')) { die; }
 * wbb3
 *
 * @package 		ImpEx.wbb3
-* * @date 		$Date: $
-*
+* *
 */
 
 class wbb3_000 extends ImpExModule

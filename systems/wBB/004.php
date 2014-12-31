@@ -12,7 +12,6 @@
 * wBB_004 Import Users module
 *
 * @package 		ImpEx.wBB
-* @date 		$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 

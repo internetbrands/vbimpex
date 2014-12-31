@@ -14,7 +14,6 @@
 * This handles interaction with the different types of database.
 *
 * @package 		ImpEx
-* @date 		$Date: 2007-08-23 17:22:48 -0700 (Thu, 23 Aug 2007) $
 *
 */
 

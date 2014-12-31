@@ -13,7 +13,6 @@ if (!defined('IDIR')) { die; }
 * smf2_001
 *
 * @package 		ImpEx.smf2
-* @date 		$Date: $
 *
 */
 

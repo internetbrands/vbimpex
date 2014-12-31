@@ -12,7 +12,6 @@
 * deluxeportal_011 Import Moderator module
 *
 * @package			ImpEx.deluxeportal
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class deluxeportal_011 extends deluxeportal_000

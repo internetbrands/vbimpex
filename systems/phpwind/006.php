@@ -12,7 +12,6 @@
 * phpwind_006 Import Thread module
 *
 * @package			ImpEx.phpwind
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class phpwind_006 extends phpwind_000

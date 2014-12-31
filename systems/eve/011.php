@@ -3,7 +3,6 @@
 * eve_011 Import Attachment module
 *
 * @package			ImpEx.eve
-* @date				$Date: 2007-03-28 11:22:19 -0400 (Wed, 28 Mar 2007) $
 *
 */
 class eve_011 extends eve_000

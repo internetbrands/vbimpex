@@ -12,7 +12,6 @@
 * punbb_007 Import Moderator module
 *
 * @package			ImpEx.punbb
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class punbb_008 extends punbb_000

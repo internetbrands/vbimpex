@@ -13,7 +13,6 @@ if (!defined('IDIR')) { die; }
 * jive
 *
 * @package 		ImpEx.jive
-* @date 		$Date: $
 *
 */
 

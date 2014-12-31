@@ -12,7 +12,6 @@
 * vb3 Import Users groups and ranks
 *
 * @package 		ImpEx.vb3
-* @date 		$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class vb3_003 extends vb3_000

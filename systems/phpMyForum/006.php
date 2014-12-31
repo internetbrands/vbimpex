@@ -12,7 +12,6 @@
 * phpMyForum_006 Import Thread module
 *
 * @package			ImpEx.phpMyForum
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class phpMyForum_006 extends phpMyForum_000

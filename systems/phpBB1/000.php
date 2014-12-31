@@ -12,7 +12,6 @@
 * phpBB1 API module
 *
 * @package			ImpEx.phpBB1
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class phpBB1_000 extends ImpExModule

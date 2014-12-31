@@ -14,7 +14,6 @@
 * megaBBS_001 Associate Users
 *
 * @package			ImpEx.megaBBS
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class megaBBS_002 extends megaBBS_000

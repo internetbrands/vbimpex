@@ -12,7 +12,6 @@
 * vb4 Import Users groups and ranks
 *
 * @package 		ImpEx.vb4
-* @date 		$Date: 2008-07-30 10:00:00 -0700 (Wed, 30 Jul 2008) $
 *
 */
 class vb4_003 extends vb4_000

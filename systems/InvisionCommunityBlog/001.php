@@ -13,7 +13,6 @@ if (!defined('IDIR')) { die; }
 * InvisionCommunityBlog_001
 *
 * @package 		ImpEx.InvisionCommunityBlog
-* @date 		$Date: $
 *
 */
 

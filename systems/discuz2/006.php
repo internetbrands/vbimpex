@@ -12,7 +12,6 @@
 * discuz2_006 Import Thread module
 *
 * @package			ImpEx.discuz2
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class discuz2_006 extends discuz2_000

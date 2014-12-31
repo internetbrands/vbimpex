@@ -13,8 +13,7 @@ if (!defined('IDIR')) { die; }
 * vBlogetin
 *
 * @package 		ImpEx.vBlogetin
-* * @date 		$Date: $
-*
+* *
 */
 
 class vBlogetin_000 extends ImpExModule

@@ -12,7 +12,6 @@
 * PNphpBB_009 Import Pmtext module
 *
 * @package			ImpEx.PNphpBB
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class PNphpBB_009 extends PNphpBB_000

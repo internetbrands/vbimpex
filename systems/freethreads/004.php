@@ -12,7 +12,6 @@
 * freethreads_004 Import Forum module
 *
 * @package			ImpEx.freethreads
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class freethreads_004 extends freethreads_000

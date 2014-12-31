@@ -13,8 +13,7 @@ if (!defined('IDIR')) { die; }
 * fusionbb
 *
 * @package 		ImpEx.fusionbb
-* * @date 		$Date: $
-*
+* *
 */
 
 class fusionbb_000 extends ImpExModule

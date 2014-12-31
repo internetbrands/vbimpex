@@ -12,7 +12,6 @@
 * ipb3_001 Check system module
 *
 * @package			ImpEx.ipb3
-* @date				$Date: 2007-04-02 11:03:39 -0700 (Mon, 02 Apr 2007) $
 *
 */
 class ipb3_001 extends ipb3_000

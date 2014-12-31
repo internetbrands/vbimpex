@@ -13,7 +13,6 @@ if (!defined('IDIR')) { die; }
 * toast_001
 *
 * @package 		ImpEx.toast
-* @date 		$Date: $
 *
 */
 

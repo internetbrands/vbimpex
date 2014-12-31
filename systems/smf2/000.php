@@ -13,8 +13,7 @@ if (!defined('IDIR')) { die; }
 * smf2
 *
 * @package 		ImpEx.smf2
-* * @date 		$Date: $
-*
+* *
 */
 
 class smf2_000 extends ImpExModule

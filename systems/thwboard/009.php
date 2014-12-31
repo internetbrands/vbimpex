@@ -12,7 +12,6 @@
 * thwboard_009 Import Pmtext module
 *
 * @package			ImpEx.thwboard
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class thwboard_009 extends thwboard_000

@@ -12,7 +12,6 @@
 * vb4 Import Polls
 *
 * @package 		ImpEx.vb4
-* @date 		$Date: 2007-07-23 14:13:50 -0700 (Mon, 23 Jul 2007) $
 *
 */
 class vb4_010 extends vb4_000

@@ -13,7 +13,6 @@ if (!defined('IDIR')) { die; }
 * wordpress_002
 *
 * @package 		ImpEx.wordpress
-* @date	$Date: $
 *
 */
 

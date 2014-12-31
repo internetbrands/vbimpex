@@ -12,7 +12,6 @@
 * vb_36_015 Import Smilie module
 *
 * @package			ImpEx.vb_36
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class vb_36_015 extends vb_36_000

@@ -14,7 +14,6 @@
 * This handles interaction with the different types of database.
 *
 * @package 		ImpEx
-* @date 		$Date: 2011-08-30 14:38:02 -0400 (Tue, 30 Aug 2011) $
 *
 */
 if (!class_exists('ImpExDatabaseCore')) { die('Direct class access violation'); }

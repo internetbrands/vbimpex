@@ -12,7 +12,6 @@
 * ipb3_006 Import Thread module
 *
 * @package			ImpEx.ipb3
-* @date				$Date: 2008-10-29 15:42:52 -0700 (Wed, 29 Oct 2008) $
 *
 */
 class ipb3_006 extends ipb3_000

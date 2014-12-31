@@ -12,7 +12,6 @@
 * InstantForum_003 Import Usergroup module
 *
 * @package			ImpEx.InstantForum
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class InstantForum_003 extends InstantForum_000

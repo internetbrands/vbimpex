@@ -13,8 +13,7 @@ if (!defined('IDIR')) { die; }
 * vBforum2blog
 *
 * @package 		ImpEx.vBforum2blog
-* * @date 		$Date: $
-*
+* *
 */
 
 class vBforum2blog_000 extends ImpExModule

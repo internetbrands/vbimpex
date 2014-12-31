@@ -13,7 +13,6 @@ if (!defined('IDIR')) { die; }
 * vanilla_002
 *
 * @package 		ImpEx.vanilla
-* @date	$Date: $
 *
 */
 

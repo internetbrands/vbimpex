@@ -14,7 +14,6 @@
 * ikon_mysql_001 Associate Users
 *
 * @package			ImpEx.ikon_mysql
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class ikon_mysql_002 extends ikon_mysql_000

@@ -13,8 +13,7 @@ if (!defined('IDIR')) { die; }
 * yaf
 *
 * @package 		ImpEx.yaf
-* * @date 		$Date: $
-*
+* *
 */
 
 class yaf_000 extends ImpExModule

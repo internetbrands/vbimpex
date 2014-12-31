@@ -13,7 +13,6 @@ if (!defined('IDIR')) { die; }
 * ubbthreads7_002
 *
 * @package 		ImpEx.ubbthreads7
-* @date	$Date: $
 *
 */
 

@@ -12,7 +12,6 @@
 * fusionbb Import Polls
 *
 * @package 		ImpEx.fusionbb
-* @date 		$Date: 2007-08-16 18:29:35 -0700 (Thu, 16 Aug 2007) $
 *
 */
 

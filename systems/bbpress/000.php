@@ -13,7 +13,6 @@ if (!defined('IDIR')) { die; }
 * bbpress
 *
 * @package 		ImpEx.bbpress
-* @date 		$Date: $
 *
 */
 

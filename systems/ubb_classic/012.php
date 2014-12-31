@@ -12,7 +12,6 @@
 * Ubb Import Moderators
 *
 * @package 		ImpEx.ubb_classic
-* @date 		$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class ubb_classic_012 extends ubb_classic_000

@@ -12,7 +12,6 @@
 * ipb3_007 Import Post module
 *
 * @package			ImpEx.ipb3
-* @date				$Date: 2008-12-03 12:24:36 -0800 (Wed, 03 Dec 2008) $
 *
 */
 class ipb3_007 extends ipb3_000

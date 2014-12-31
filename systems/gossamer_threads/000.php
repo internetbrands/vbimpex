@@ -13,8 +13,7 @@ if (!defined('IDIR')) { die; }
 * gossamer_threads
 *
 * @package 		ImpEx.gossamer_threads
-* * @date 		$Date: $
-*
+* *
 */
 
 class gossamer_threads_000 extends ImpExModule

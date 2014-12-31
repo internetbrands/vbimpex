@@ -12,7 +12,6 @@
 * communityserver_004 Import Forum module
 *
 * @package			ImpEx.communityserver
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class communityserver_004 extends communityserver_000

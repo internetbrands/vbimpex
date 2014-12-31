@@ -13,7 +13,6 @@ if (!defined('IDIR')) { die; }
 * fusionbb_002
 *
 * @package 		ImpEx.fusionbb
-* @date	$Date: $
 *
 */
 

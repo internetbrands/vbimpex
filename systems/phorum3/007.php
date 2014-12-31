@@ -12,7 +12,6 @@
 * phorum3_007 Import Attachments module
 *
 * @package			ImpEx.phorum3
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class phorum3_007 extends phorum3_000

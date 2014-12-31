@@ -13,8 +13,7 @@ if (!defined('IDIR')) { die; }
 * mmforum
 *
 * @package 		ImpEx.mmforum
-* * @date 		$Date: $
-*
+* *
 */
 
 class mmforum_000 extends ImpExModule

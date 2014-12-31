@@ -13,7 +13,6 @@ if (!defined('IDIR')) { die; }
 * ultraboard_001
 *
 * @package 		ImpEx.ultraboard
-* @date 		$Date: $
 *
 */
 

@@ -13,7 +13,6 @@ if (!defined('IDIR')) { die; }
 * vBJournal_002
 *
 * @package 		ImpEx.vBJournal
-* @date	$Date: $
 *
 */
 

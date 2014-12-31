@@ -12,7 +12,6 @@
 * yahoo_access API module
 *
 * @package			ImpEx.yahoo_access
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class yahoo_access_000 extends ImpExModule

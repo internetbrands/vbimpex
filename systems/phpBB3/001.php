@@ -13,7 +13,6 @@ if (!defined('IDIR')) { die; }
 * phpBB3_001
 *
 * @package 		ImpEx.phpBB3
-* @date 		$Date: $
 *
 */
 

@@ -12,7 +12,6 @@
 * agora_006 Import Threads module
 *
 * @package			ImpEx.agora
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 

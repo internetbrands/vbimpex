@@ -12,7 +12,6 @@
 * webcrossing API module
 *
 * @package			ImpEx.webcrossing
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class webcrossing_000 extends ImpExModule
@@ -173,7 +172,6 @@ define('WC_STATE_FLAG_READ', 0x8000);
 * Web Crossing export parser
 *
 * @package			ImpEx.webcrossing
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class WebCrossing_Parser

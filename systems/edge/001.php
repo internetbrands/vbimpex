@@ -12,7 +12,6 @@
 * edge_001 Check system module
 *
 * @package			ImpEx.edge
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class edge_001 extends edge_000

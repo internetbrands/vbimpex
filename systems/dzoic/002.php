@@ -13,7 +13,6 @@ if (!defined('IDIR')) { die; }
 * dzoic _002
 *
 * @package 		ImpEx.dzoic 
-* @date	$Date: $
 *
 */
 

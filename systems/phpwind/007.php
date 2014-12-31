@@ -12,7 +12,6 @@
 * phpwind_007 Import Post module
 *
 * @package			ImpEx.phpwind
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class phpwind_007 extends phpwind_000

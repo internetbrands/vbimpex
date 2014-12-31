@@ -12,7 +12,6 @@
 * thwboard_001 Check system module
 *
 * @package			ImpEx.thwboard
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class thwboard_001 extends thwboard_000

@@ -12,7 +12,6 @@
 * phpwind_003 Import Usergroup module
 *
 * @package			ImpEx.phpwind
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class phpwind_003 extends phpwind_000

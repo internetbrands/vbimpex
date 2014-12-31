@@ -12,7 +12,6 @@
 * yabb_gold_007 Import Post module
 *
 * @package			ImpEx.yabb_gold
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class yabb_gold_007 extends yabb_gold_000

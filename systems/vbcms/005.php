@@ -12,7 +12,6 @@
 * vbcms 004 Import categories
 * 
 * @package         ImpEx.vbcms
-* @date         $Date: 2009-12-17 19:35:15 -0800 (Thu, 17 Dec 2009) $
 *
 */ 
 

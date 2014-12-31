@@ -12,7 +12,6 @@
 * bbBoardv2_009 Import Pmtext module
 *
 * @package			ImpEx.bbBoardv2
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class bbBoardv2_009 extends bbBoardv2_000

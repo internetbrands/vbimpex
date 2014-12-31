@@ -12,7 +12,6 @@
 * fusetalk_001 Associate Users
 *
 * @package			ImpEx.fusetalk
-* @date				$Date: 2006-04-03 01:46:42 -0700 (Mon, 03 Apr 2006) $
 *
 */
 require_once IDIR . '/systems/fusetalk/002.php';

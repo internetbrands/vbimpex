@@ -12,7 +12,6 @@
 * phpBB2_000 
 *
 * @package      ImpEx.phpBB2
-* @date         $Date: 2009-12-17 19:35:15 -0800 (Thu, 17 Dec 2009) $
 *
 */
 

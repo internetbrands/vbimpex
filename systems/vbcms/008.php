@@ -17,7 +17,6 @@ if (!defined('IDIR')) {
  * vbcms 008 Import widgets
  * 
  * @package         ImpEx.vbcms
- * @date         $Date: 2009-12-17 19:35:15 -0800 (Thu, 17 Dec 2009) $
  *
  */
 class vbcms_008 extends vbcms_000 {

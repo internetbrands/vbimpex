@@ -12,7 +12,6 @@
 * ipb3_005 Import Forum module
 *
 * @package			ImpEx.ipb3
-* @date				$Date: 2007-08-16 19:01:27 -0700 (Thu, 16 Aug 2007) $
 *
 */
 class ipb3_005 extends ipb3_000

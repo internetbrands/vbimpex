@@ -12,7 +12,6 @@
 * encoreII_001 Check system module
 *
 * @package			ImpEx.encoreII
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class encoreII_001 extends encoreII_000

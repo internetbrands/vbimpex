@@ -13,7 +13,6 @@ if (!defined('IDIR')) { die; }
 * vBlogetin_001
 *
 * @package 		ImpEx.vBlogetin
-* @date 		$Date: $
 *
 */
 

@@ -12,7 +12,6 @@
 * wordpress6_cms Import articles
 * 
 * @package         ImpEx.wordpress6_cms
-* @date         $Date: 2009-12-17 19:35:15 -0800 (Thu, 17 Dec 2009) $
 *
 */ 
 

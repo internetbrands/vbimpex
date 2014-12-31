@@ -13,7 +13,6 @@ if (!defined('IDIR')) { die; }
 * webbbs_001
 *
 * @package 		ImpEx.webbbs
-* @date 		$Date: $
 *
 */
 

@@ -12,7 +12,6 @@
 * fusionbb_010 Import Moderator module
 *
 * @package			ImpEx.fusionbb
-* @date				$Date: 2006-10-10 17:33:37 -0700 (Tue, 10 Oct 2006) $
 *
 */
 class fusionbb_010 extends fusionbb_000

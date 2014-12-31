@@ -12,7 +12,6 @@
 * minibb_005 Import Thread module
 *
 * @package			ImpEx.minibb
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class minibb_005 extends minibb_000

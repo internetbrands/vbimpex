@@ -13,7 +13,6 @@ if (!defined('IDIR')) { die; }
 * mysmartbb_001
 *
 * @package 		ImpEx.mysmartbb
-* @date 		$Date: $
 *
 */
 

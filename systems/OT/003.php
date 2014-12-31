@@ -12,7 +12,6 @@
 * OT Import Forums
 *
 * @package 		ImpEx.OT
-* @date 		$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class OT_003 extends OT_000

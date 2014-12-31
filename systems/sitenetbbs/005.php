@@ -12,7 +12,6 @@
 * sitenetbbs_005 Import Thread module
 *
 * @package			ImpEx.sitenetbbs
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class sitenetbbs_005 extends sitenetbbs_000

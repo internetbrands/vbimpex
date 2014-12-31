@@ -12,7 +12,6 @@
 * MyBB_011 Import Attachment module
 *
 * @package			ImpEx.MyBB
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class MyBB_011 extends MyBB_000

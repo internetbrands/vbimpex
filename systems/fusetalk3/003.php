@@ -12,7 +12,6 @@
 * fusetalk_003 Import User module
 *
 * @package			ImpEx.fusetalk
-* @date				$Date: 2007-06-21 18:00:32 -0700 (Thu, 21 Jun 2007) $
 *
 */
 require_once IDIR . '/systems/fusetalk/003.php';

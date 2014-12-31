@@ -13,7 +13,6 @@ if (!defined('IDIR')) { die; }
 * mmforum_002
 *
 * @package 		ImpEx.mmforum
-* @date	$Date: $
 *
 */
 

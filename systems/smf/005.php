@@ -12,7 +12,6 @@
 * smf_005 Import Forum module
 *
 * @package			ImpEx.smf
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class smf_005 extends smf_000

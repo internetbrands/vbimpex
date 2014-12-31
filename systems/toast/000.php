@@ -13,8 +13,7 @@ if (!defined('IDIR')) { die; }
 * toast
 *
 * @package 		ImpEx.toast
-* * @date 		$Date: $
-*
+* *
 */
 
 class toast_000 extends ImpExModule

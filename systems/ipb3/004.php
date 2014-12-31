@@ -12,7 +12,6 @@
 * ipb3_004 Import User module
 *
 * @package			ImpEx.ipb3
-* @date				$Date: 2008-10-29 15:40:33 -0700 (Wed, 29 Oct 2008) $
 *
 */
 class ipb3_004 extends ipb3_000

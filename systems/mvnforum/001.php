@@ -13,7 +13,6 @@ if (!defined('IDIR')) { die; }
 * mvnforum_001
 *
 * @package 		ImpEx.mvnforum
-* @date 		$Date: $
 *
 */
 

@@ -12,7 +12,6 @@
 * ikon_mysql_010 Import Moderator module
 *
 * @package			ImpEx.ikon_mysql
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class ikon_mysql_010 extends ikon_mysql_000

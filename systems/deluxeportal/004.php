@@ -12,7 +12,6 @@
 * deluxeportal_004 Import User module
 *
 * @package			ImpEx.deluxeportal
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class deluxeportal_004 extends deluxeportal_000

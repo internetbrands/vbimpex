@@ -12,7 +12,6 @@
 /*
 *
 * @package			ImpEx.megaBBS
-* @date				$Date: $
 *
 */
 class megaBBS_011 extends megaBBS_000

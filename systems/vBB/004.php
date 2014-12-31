@@ -12,7 +12,6 @@
 * vBB_004 Import Forum module
 *
 * @package			ImpEx.vBB
-* @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
 *
 */
 class vBB_004 extends vBB_000
