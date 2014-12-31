@@ -823,6 +823,12 @@ class ImpExDatabase extends ImpExDatabaseCore
 			// MySQL database
 			case 'mysql':
 			{
+				$vbenumval = addslashes($this->get_value('nonmandatory', 'workflowstatus'));
+				if (empty($vbenumval))
+					{
+					$vbenumval = "NULL";
+					}
+					
 				$Db_object->query("
 					REPLACE INTO {$tableprefix}cms_nodeinfo
 					(
@@ -839,7 +845,7 @@ class ImpExDatabase extends ImpExDatabaseCore
 						" . intval($this->get_value('nonmandatory', 'viewcount')) . ",
 						" . intval($this->get_value('nonmandatory', 'creationdate')) . ",
 						" . intval($this->get_value('nonmandatory', 'workflowdate')) . ",
-						'" . addslashes($this->get_value('nonmandatory', 'workflowstatus')) . "',
+						'$vbenumval',
 						" . intval($this->get_value('nonmandatory', 'workflowpending')) . ",
 						" . intval($this->get_value('nonmandatory', 'workflowlevelid')) . ",
 						" . intval($this->get_value('nonmandatory', 'associatedthreadid')) . ",
