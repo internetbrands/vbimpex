@@ -103,7 +103,7 @@ class vBJournal_001 extends vBJournal_000
 			$try->set_value('mandatory', 'title',				"{$displayobject->phrases['imported']} {$displayobject->phrases['blog']}");
 			$try->set_value('mandatory', 'importblogcategoryid', '69');
 			$try->set_value('nonmandatory', 'description',		"{$displayobject->phrases['imported']} {$displayobject->phrases['blog']}");
-			$try->import_blog_category($Db_target, $target_db_type, $target_table_prefix, );
+			$try->import_blog_category($Db_target, $target_db_type, $target_table_prefix );
 			unset($try);
 
 			$sessionobject->add_session_var('added_default_unknown_group', 'yup');

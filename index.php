@@ -266,7 +266,7 @@ if($ImpExSession->get_session_var('errortable') != 'done')
 						error varchar(250) default 'NULL',
 						remedy varchar(250) default 'NULL',
 						PRIMARY KEY (errorid)
-					) TYPE=MyISAM";
+					) ENGINE=MyISAM";
 
 	$Db_target->query($error_table);
 
