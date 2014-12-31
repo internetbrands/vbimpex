@@ -5,7 +5,7 @@
 || # ----------------------------------------------------------------
 || # All PHP code in this file is Copyright 2000-2014 vBulletin Solutions Inc.
 || # This code is made available under the Modified BSD License -- see license.txt
-|| # http://www.vbulletin.com 
+|| # http://www.vbulletin.com
 || ######################################################################## ||
 \*======================================================================*/
 // #############################################################################
@@ -16,7 +16,7 @@ if (!defined('IDIR')) { die; }
 
 if ($_POST['do'] == 'login')
 {
-	if (md5(strtoupper($_POST['customerid'])) == CUSTOMER_NUMBER)
+	if ($_POST['customerid'] AND (md5($_POST['customerid']) == CUSTOMER_NUMBER))
 	{
 		setcookie('bbcustomerid', CUSTOMER_NUMBER, 0, '/', '');
 

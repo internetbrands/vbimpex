@@ -17,6 +17,16 @@ if (!defined('IDIR')) { die; }
 */
 
 /*
+###
+#	Set this to some unique value.  This value will be required as a password when entering the impex system.
+#	If this is left blank you will not be able to access the impex system
+###
+*/
+
+$impexconfig['passcode']	= 'test';
+
+
+/*
 ####
 #
 # TARGET - The target is the vBulletin database (where the  data is going to)
@@ -102,4 +112,6 @@ define('step_through', false);
 define('lowercase_table_names', false);
 define('use_utf8_encode', false);
 define('use_utf8_decode', true);
+
+define('CUSTOMER_NUMBER', md5($impexconfig['passcode']));
 ?>

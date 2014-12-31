@@ -6,7 +6,7 @@
 || # ----------------------------------------------------------------
 || # All PHP code in this file is Copyright 2000-2014 vBulletin Solutions Inc.
 || # This code is made available under the Modified BSD License -- see license.txt
-|| # http://www.vbulletin.com 
+|| # http://www.vbulletin.com
 || ######################################################################## ||
 \*======================================================================*/
 
@@ -26,7 +26,6 @@ error_reporting(E_ALL  & ~E_NOTICE);
 // Define constants
 // #############################################################################
 
-define('CUSTOMER_NUMBER', (strlen('[#]customer.md5[#]') == 32) ? '[#]customer.md5[#]' : md5(strtoupper('[#]customer.md5[#]')));
 define('IDIR', (($getcwd = getcwd()) ? $getcwd : '.'));
 define('VB_AREA', 'ImpEx');
 
@@ -436,8 +435,8 @@ if ($currentmoduleworking != NULL)
 	if ($module == '001' AND $ImpExSession->get_session_var('targetsystem') == 400)
 	{
 		$ModuleCall->_import_ids = array_merge($ModuleCall->_import_ids, $ModuleCall->_import_ids_400);
-	}	
-	
+	}
+
 	// Then call resume on it
 	$ModuleCall->resume($ImpExSession, $ImpExDisplay, $Db_target, $Db_source);
 }
@@ -486,7 +485,7 @@ if ($module != '000' AND $module != NULL AND $currentmoduleworking == FALSE)
 
 	// Sets the current to working
 	$ModuleCall->using($ImpExSession);
-	
+
 	// Actually calls the init and does the work
 	$ModuleCall->init($ImpExSession, $ImpExDisplay, $Db_target, $Db_source);
 }

@@ -5,7 +5,7 @@
 || # ----------------------------------------------------------------
 || # All PHP code in this file is Copyright 2000-2014 vBulletin Solutions Inc.
 || # This code is made available under the Modified BSD License -- see license.txt
-|| # http://www.vbulletin.com 
+|| # http://www.vbulletin.com
 || ####################################################################
 \*======================================================================*/
 error_reporting(E_ALL & ~E_NOTICE);
@@ -35,7 +35,7 @@ if (!defined('IDIR')) { die; }
 # index.php phrases
 #####################################
 
-$impex_phrases['enter_customer_number'] = 'Enter Customer number';
+$impex_phrases['enter_customer_number'] = 'Please enter pass code';
 
 $impex_phrases['using_local_config']	= 'Using includes/config.php for target config.';
 $impex_phrases['using_impex_config']	= 'Using ImpExConfig.php for target config.';

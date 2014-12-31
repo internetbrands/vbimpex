@@ -5,11 +5,10 @@
 || # ----------------------------------------------------------------
 || # All PHP code in this file is Copyright 2000-2014 vBulletin Solutions Inc.
 || # This code is made available under the Modified BSD License -- see license.txt
-|| # http://www.vbulletin.com 
+|| # http://www.vbulletin.com
 || ######################################################################## ||
 \*======================================================================*/
 // For auth
-define('CUSTOMER_NUMBER', (strlen('[#]customer.md5[#]') == 32) ? '[#]customer.md5[#]' : md5(strtoupper('[#]customer.md5[#]')));
 define('IDIR', (($getcwd = getcwd()) ? $getcwd : '.'));
 
 if (function_exists('set_time_limit') AND get_cfg_var('safe_mode')==0)
