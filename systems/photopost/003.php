@@ -13,7 +13,6 @@
 *
 * @package			ImpEx.photopost
 * @date				$Date$
-* @copyright		http://www.vbulletin.com/license.html
 *
 */
 

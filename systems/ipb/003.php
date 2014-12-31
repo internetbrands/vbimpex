@@ -14,7 +14,6 @@
 *
 * @package 		ImpEx.ipb
 * @date 		$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
-* @copyright 	http://www.vbulletin.com/license.html
 *
 */
 if (!class_exists('ipb_000')) { die('Direct class access violation'); }

@@ -14,7 +14,6 @@ if (!defined('IDIR')) { die; }
 *
 * @package 		ImpEx.gossamer_threads
 * @date 		$Date: $
-* @copyright 	http://www.vbulletin.com/license.html
 *
 */
 

@@ -13,7 +13,6 @@ if (!defined('IDIR')) { die; }
 *
 * @package			ImpEx.webbbs
 * @date				$Date: $
-* @copyright		http://www.vbulletin.com/license.html
 *
 */
 

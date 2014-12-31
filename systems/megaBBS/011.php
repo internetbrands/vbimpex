@@ -13,7 +13,6 @@
 *
 * @package			ImpEx.megaBBS
 * @date				$Date: $
-* @copyright		http://www.vbulletin.com/license.html
 *
 */
 class megaBBS_011 extends megaBBS_000

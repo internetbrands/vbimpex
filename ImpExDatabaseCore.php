@@ -15,7 +15,6 @@
 *
 * @package 		ImpEx
 * @date 		$Date: 2007-07-19 13:46:44 -0700 (Thu, 19 Jul 2007) $
-* @copyright 	http://www.vbulletin.com/license.html
 *
 */
 

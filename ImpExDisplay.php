@@ -17,7 +17,6 @@
 *
 * @package 		ImpEx
 * @date 		$Date: 2011-10-21 18:59:56 -0400 (Fri, 21 Oct 2011) $
-* @copyright 	http://www.vbulletin.com/license.html
 *
 */
 

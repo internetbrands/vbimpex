@@ -13,7 +13,6 @@
 *
 * @package			ImpEx.fusetalk
 * @date				$Date: 2006-04-03 01:46:42 -0700 (Mon, 03 Apr 2006) $
-* @copyright		http://www.vbulletin.com/license.html
 *
 */
 class fusetalk3_011 extends fusetalk3_000

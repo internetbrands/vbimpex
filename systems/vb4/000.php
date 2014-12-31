@@ -13,7 +13,6 @@
 *
 * @package 		ImpEx.vb4
 * @date 		$Date: 2009-03-06 13:54:53 -0800 (Fri, 06 Mar 2009) $
-* @copyright 	http://www.vbulletin.com/license.html
 *
 */
 class vb4_000 extends ImpExModule

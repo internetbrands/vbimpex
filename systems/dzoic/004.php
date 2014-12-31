@@ -13,7 +13,6 @@ if (!defined('IDIR')) { die; }
 *
 * @package			ImpEx.dzoic 
 * @date				$Date: $
-* @copyright		http://www.vbulletin.com/license.html
 *
 */
 

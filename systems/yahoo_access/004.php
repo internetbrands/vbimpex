@@ -13,7 +13,6 @@
 *
 * @package			ImpEx.yahoo_access
 * @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
-* @copyright		http://www.vbulletin.com/license.html
 *
 */
 class yahoo_access_004 extends yahoo_access_000

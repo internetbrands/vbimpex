@@ -14,7 +14,6 @@ if (!defined('IDIR')) { die; }
 *
 * @package 		ImpEx.vBforum2blog
 * @date	$Date: $
-* @copyright 	http://www.vbulletin.com/license.html
 *
 */
 

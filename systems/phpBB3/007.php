@@ -13,7 +13,6 @@
 *
 * @package 		ImpEx.phpBB
 * @date 		$Date: 2006-04-03 03:24:38 -0700 (Mon, 03 Apr 2006) $
-* @copyright 	http://www.vbulletin.com/license.html
 *
 */
 

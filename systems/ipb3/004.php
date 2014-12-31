@@ -13,7 +13,6 @@
 *
 * @package			ImpEx.ipb3
 * @date				$Date: 2008-10-29 15:40:33 -0700 (Wed, 29 Oct 2008) $
-* @copyright		http://www.vbulletin.com/license.html
 *
 */
 class ipb3_004 extends ipb3_000

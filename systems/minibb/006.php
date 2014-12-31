@@ -13,7 +13,6 @@
 *
 * @package			ImpEx.minibb
 * @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
-* @copyright		http://www.vbulletin.com/license.html
 *
 */
 class minibb_006 extends minibb_000

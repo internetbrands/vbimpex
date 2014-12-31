@@ -9,7 +9,6 @@ error_reporting(E_ALL  & ~E_NOTICE);
 /*
 * @package 		ImpEx.tools
 * @date 		$Date: 2007-08-21 17:03:19 -0400 (Tue, 21 Aug 2007) $
-* @copyright 	http://www.vbulletin.com/license.html
 *
 */
 // BACK UP YOUR DATABASE

@@ -4,7 +4,6 @@
 *
 * @package			ImpEx.eve
 * @date				$Date: 2007-03-28 11:22:19 -0400 (Wed, 28 Mar 2007) $
-* @copyright		http://www.vbulletin.com/license.html
 *
 */
 class eve_011 extends eve_000

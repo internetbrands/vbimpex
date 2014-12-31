@@ -13,7 +13,6 @@
 *
 * @package			ImpEx.fusetalk
 * @date				$Date: 2007-06-21 18:00:32 -0700 (Thu, 21 Jun 2007) $
-* @copyright		http://www.vbulletin.com/license.html
 *
 */
 require_once IDIR . '/systems/fusetalk/003.php';

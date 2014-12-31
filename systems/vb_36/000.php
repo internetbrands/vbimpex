@@ -13,7 +13,6 @@
 *
 * @package			ImpEx.vb_36
 * @date				$Date: 2011-01-03 14:45:32 -0500 (Mon, 03 Jan 2011) $
-* @copyright		http://www.vbulletin.com/license.html
 *
 */
 class vb_36_000 extends ImpExModule

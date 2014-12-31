@@ -2,7 +2,6 @@
 /*
 * @package 		ImpEx.tools
 * @date 		$Date: 2006-04-01 18:09:40 -0500 (Sat, 01 Apr 2006) $
-* @copyright 	http://www.vbulletin.com/license.html
 *
 */
 

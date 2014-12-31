@@ -13,7 +13,6 @@
 *
 * @package 		ImpEx.vb4
 * @date 		$Date: 2007-07-23 14:13:50 -0700 (Mon, 23 Jul 2007) $
-* @copyright 	http://www.vbulletin.com/license.html
 *
 */
 class vb4_009 extends vb4_000
