@@ -1848,7 +1848,7 @@ class ImpExDatabaseCore extends ImpExFunction
 				'" . $this->get_value('nonmandatory', 'dateline')  . "',
 				'" . $this->get_value('nonmandatory', 'counter')  . "',
 				0,
-				'" . $caption . "',
+				'" . addslashes($caption) . "',
 				'" . $state . "',
 				" . intval($content['contentid'])  . ",
 				" . $filedataid . ",
